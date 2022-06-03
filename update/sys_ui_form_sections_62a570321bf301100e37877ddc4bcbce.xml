@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="62a570321bf301100e37877ddc4bcbce" sys_domain="global" table="x_58872_needit_needit" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-03 22:36:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aea570321bf301100e37877ddc4bcbe9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="e2a570321bf301100e37877ddc4bcbc6">62a570321bf301100e37877ddc4bcbce</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="e2a570321bf301100e37877ddc4bcbc6">22a570321bf301100e37877ddc4bcbcb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-03 22:36:16</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-03 22:36:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aaa570321bf301100e37877ddc4bcbea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="e2a570321bf301100e37877ddc4bcbc6">62a570321bf301100e37877ddc4bcbce</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="e2a570321bf301100e37877ddc4bcbc6">e6a570321bf301100e37877ddc4bcbcc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-03 22:36:16</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-03 22:37:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>60f5b4321bf301100e37877ddc4bcbf0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="e2a570321bf301100e37877ddc4bcbc6">62a570321bf301100e37877ddc4bcbce</sys_ui_form>
+            <sys_ui_section caption="Status" display_value="Status" name="x_58872_needit_needit" sys_domain="global" view="e2a570321bf301100e37877ddc4bcbc6">24f5b4321bf301100e37877ddc4bcbed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-03 22:37:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-03 22:39:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f76bc321bf301100e37877ddc4bcbd9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="e2a570321bf301100e37877ddc4bcbc6">62a570321bf301100e37877ddc4bcbce</sys_ui_form>
+            <sys_ui_section caption="How soon" display_value="How soon" name="x_58872_needit_needit" sys_domain="global" view="e2a570321bf301100e37877ddc4bcbc6">1f76bc321bf301100e37877ddc4bcbd6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-03 22:39:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-03 22:36:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>62a570321bf301100e37877ddc4bcbce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_62a570321bf301100e37877ddc4bcbce</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-03 22:36:16</sys_updated_on>
+            <sys_user/>
+            <view display_value="My View" name="My_View">e2a570321bf301100e37877ddc4bcbc6</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

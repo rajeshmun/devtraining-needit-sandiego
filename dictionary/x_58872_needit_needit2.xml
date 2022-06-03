@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="NeedIt2" max_length="40" name="x_58872_needit_needit2" type="collection">
+        <element label="New Column" max_length="120" name="new_column" type="string"/>
+        <element label="New Column2" max_length="40" name="new_column2" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
